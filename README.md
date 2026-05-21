@@ -142,8 +142,7 @@ Consumer-Shopping-Behavior-Analysis/
 ├── Problem_statement/
 ├── Report/
 ├── python/
-├── dashboard<img width="1292" height="722" alt="Screenshot 2026-05-21 233838" src="https://github.com/user-attachments/assets/79d9e77b-ebd3-4a7a-b025-026153dbcb6c" />
-/
+├── Dashboard img
 ├── sql/
 ├── dataset/
 ├── README.md
